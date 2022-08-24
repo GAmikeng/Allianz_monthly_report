@@ -4,3 +4,4 @@ url_allianz_global_investor_fund="https://tw.allianzgi.com/zh-tw/products-soluti
 monthlyreport_url_tech_fund= "https://tw.allianzgi.com/documents/mDDO04"
 monthlyreport_url_intelligence_fund="https://tw.allianzgi.com/documents/mDDO07"
 monthlyreport_url_global_investor_fund="https://tw.allianzgi.com/documents/mDDO01"
+output_path="F:/BBG04/Allianz_monthly_report/"
